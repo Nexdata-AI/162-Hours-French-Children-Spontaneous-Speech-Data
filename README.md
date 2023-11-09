@@ -1,24 +1,25 @@
 # 162-Hours-French-Children-Spontaneous-Speech-Data
 
 ## Description
-The 97 Hours - German Child's Spontaneous Speech Data, manually screened and processed. Annotation contains transcription text, speaker identification, gender and other informantion. This dataset can be applied in speech recognition (acoustic model or language model training), caption generation, voice content moderation and other AI algorithm research.
+The 162 Hours - French Child's Spontaneous Speech Data is a collection of speech clips, the content covering multiple topics. All the speech audio was manually transcribed into text; speaker identity, gender, and other attribution are also annotated. This dataset can be used for voiceprint recognition model training, corpus construction for machine translation, and algorithm research introduction
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1299?source=Github
-
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1307?source=Github
 
 # Specifications
 ## Format
-16k Hz, 16 bit, wav, mono channel;
-## Age
-12 years old and younger children;
+mp4 for video and wav for audio;
+## age
+children aged 12 and under;
 ## Content category
-including self-media, conversation, live, lecture, variety show;
+including interview, self-meida,variety show, etc.
 ## Language
-German;
+French;
 ## Annotation
 annotation for the transcription text, speaker identification, gender;
+## Application scenarios
+speech recognition, video caption generation and video content review;
 ## Accuracy
-Word Accuracy Rate (WAR) at least 98%.
+at a Word Accuracy Rate (SAR) of being no less than 98%.
 
 # Licensing Information
 Commercial License
