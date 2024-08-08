@@ -3,7 +3,7 @@
 ## Description
 The 162 Hours - French Child's Spontaneous Speech Data is a collection of speech clips, the content covering multiple topics. All the speech audio was manually transcribed into text; speaker identity, gender, and other attribution are also annotated. This dataset can be used for voiceprint recognition model training, corpus construction for machine translation, and algorithm research introduction
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1307?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1307?source=Github
 
 # Specifications
 ## Format
